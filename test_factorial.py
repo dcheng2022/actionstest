@@ -11,6 +11,3 @@ def test_two():
 
 def test_five():
     assert factorial(5) == 120
-
-def test_fail():
-    assert factorial(10) == 10
